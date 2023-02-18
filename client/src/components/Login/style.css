@@ -1,0 +1,21 @@
+.kontener{
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    padding: 25px;
+}
+h1{
+    padding-bottom: 3%;
+}
+h4{
+    margin-bottom: 2%;
+}
+.formularz, 
+.kontener3{
+    margin-top: 20px;
+    padding: 2%;
+    border: 0.1px solid rgb(202, 202, 202);
+}
+input{
+    margin-bottom: 10px;
+}
